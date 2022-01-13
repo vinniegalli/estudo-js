@@ -2,7 +2,7 @@
 console.log('Trabalhando com variáveis')
 // JS é case sensitive
 
-const idade = 26
+const Idade = 26  //Funciona mas não é uma boa prática
 const nome = 'Vinicius'
 
 // não fazer
